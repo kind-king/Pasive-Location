@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Vova`s/PasiveLocation/main.cpp
+src/Pasive_Location.h
+C:/Vova`s/PasiveLocation/src/Pasive_Location.h
+iostream
+-
+
+C:/Vova`s/PasiveLocation/src/Pasive_Location.cpp
+Pasive_Location.h
+C:/Vova`s/PasiveLocation/src/Pasive_Location.h
+
+C:/Vova`s/PasiveLocation/src/Pasive_Location.h
+math.h
+-
+complex
+-
+coordinates_system.h
+C:/Vova`s/PasiveLocation/src/coordinates_system.h
+iostream
+-
+
+C:/Vova`s/PasiveLocation/src/coordinates_system.h
+

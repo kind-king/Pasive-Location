@@ -1,0 +1,3 @@
+C:/Vova`s/PasiveLocation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Vova`s/PasiveLocation/cmake-build-debug/CMakeFiles/PasiveLocation.dir
+C:/Vova`s/PasiveLocation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
